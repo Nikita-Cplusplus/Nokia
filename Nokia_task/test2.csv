@@ -1,0 +1,4 @@
+,Alice,Bob,Cell,88
+100,1,0,1,6
+2,2,=Alice100+Cell30,0,5
+30,0,=Bob100+Alice100,5,4
